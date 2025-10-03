@@ -1,0 +1,25 @@
+/* [project]/case/app/avenirblack_297e1e28.module.css [app-client] (css) */
+@font-face {
+  font-family: avenirBlack;
+  src: url("../media/Avenir_Black-s.p.99334116.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: avenirBlack Fallback;
+  src: local(Arial);
+  ascent-override: 92.46%;
+  descent-override: 33.84%;
+  line-gap-override: 0.0%;
+  size-adjust: 108.16%;
+}
+
+.avenirblack_297e1e28-module__s_o1tG__className {
+  font-family: avenirBlack, avenirBlack Fallback;
+}
+
+.avenirblack_297e1e28-module__s_o1tG__variable {
+  --font-avenir-black: "avenirBlack", "avenirBlack Fallback";
+}
+
+/*# sourceMappingURL=case_app_avenirblack_297e1e28_module_css_bad6b30c._.single.css.map*/

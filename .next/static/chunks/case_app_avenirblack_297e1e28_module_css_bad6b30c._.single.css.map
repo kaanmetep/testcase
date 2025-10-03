@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/case/app/avenirblack_297e1e28.module.css"],"sourcesContent":["@font-face {\n    font-family: 'avenirBlack';\n    src: url('@vercel/turbopack-next/internal/font/local/font?{%22path%22:%22../public/fonts/avenir/Avenir-Black.ttf%22,%22preload%22:true,%22has_size_adjust%22:true}') format('truetype');\n    font-display: swap;\n    \n}\n\n@font-face {\n    font-family: 'avenirBlack Fallback';\n    src: local(\"Arial\");\n    ascent-override: 92.46%;\ndescent-override: 33.84%;\nline-gap-override: 0.00%;\nsize-adjust: 108.16%;\n\n}\n\n.className {\n    font-family: 'avenirBlack', 'avenirBlack Fallback';\n    \n}\n.variable {\n    --font-avenir-black: 'avenirBlack', 'avenirBlack Fallback';\n}\n\n"],"names":[],"mappings":"AAAA;;;;;;AAOA;;;;;;;;;AAUA;;;;AAIA"}}]
+}

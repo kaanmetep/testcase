@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/case/app/montserratmedium_7536dfd4.module.css"],"sourcesContent":["@font-face {\n    font-family: 'montserratMedium';\n    src: url('@vercel/turbopack-next/internal/font/local/font?{%22path%22:%22../public/fonts/montserat/Montserrat-Medium.otf%22,%22preload%22:true,%22has_size_adjust%22:true}') format('opentype');\n    font-display: swap;\n    \n}\n\n@font-face {\n    font-family: 'montserratMedium Fallback';\n    src: local(\"Arial\");\n    ascent-override: 83.59%;\ndescent-override: 21.67%;\nline-gap-override: 0.00%;\nsize-adjust: 115.80%;\n\n}\n\n.className {\n    font-family: 'montserratMedium', 'montserratMedium Fallback';\n    \n}\n.variable {\n    --font-montserrat-medium: 'montserratMedium', 'montserratMedium Fallback';\n}\n\n"],"names":[],"mappings":"AAAA;;;;;;AAOA;;;;;;;;;AAUA;;;;AAIA"}}]
+}

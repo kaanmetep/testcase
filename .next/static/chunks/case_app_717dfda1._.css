@@ -1,0 +1,796 @@
+/* [project]/case/app/avenirroman_671a84a9.module.css [app-client] (css) */
+@font-face {
+  font-family: avenirRoman;
+  src: url("../media/Avenir_Roman-s.p.33d6f4ec.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: avenirRoman Fallback;
+  src: local(Arial);
+  ascent-override: 98.43%;
+  descent-override: 36.03%;
+  line-gap-override: 0.0%;
+  size-adjust: 101.59%;
+}
+
+.avenirroman_671a84a9-module__f5VYiW__className {
+  font-family: avenirRoman, avenirRoman Fallback;
+}
+
+.avenirroman_671a84a9-module__f5VYiW__variable {
+  --font-avenir-roman: "avenirRoman", "avenirRoman Fallback";
+}
+
+/* [project]/case/app/avenirbook_e59c0f06.module.css [app-client] (css) */
+@font-face {
+  font-family: avenirBook;
+  src: url("../media/Avenir_Book-s.p.111acc1a.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: avenirBook Fallback;
+  src: local(Arial);
+  ascent-override: 99.3%;
+  descent-override: 36.34%;
+  line-gap-override: 0.0%;
+  size-adjust: 100.71%;
+}
+
+.avenirbook_e59c0f06-module__tB0fpq__className {
+  font-family: avenirBook, avenirBook Fallback;
+}
+
+.avenirbook_e59c0f06-module__tB0fpq__variable {
+  --font-avenir-book: "avenirBook", "avenirBook Fallback";
+}
+
+/* [project]/case/app/avenirmedium_9669aef7.module.css [app-client] (css) */
+@font-face {
+  font-family: avenirMedium;
+  src: url("../media/Avenir_Medium-s.p.c359ec0d.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: avenirMedium Fallback;
+  src: local(Arial);
+  ascent-override: 97.27%;
+  descent-override: 35.6%;
+  line-gap-override: 0.0%;
+  size-adjust: 102.8%;
+}
+
+.avenirmedium_9669aef7-module__Ui6kYG__className {
+  font-family: avenirMedium, avenirMedium Fallback;
+}
+
+.avenirmedium_9669aef7-module__Ui6kYG__variable {
+  --font-avenir-medium: "avenirMedium", "avenirMedium Fallback";
+}
+
+/* [project]/case/app/avenirheavy_3dc4e17a.module.css [app-client] (css) */
+@font-face {
+  font-family: avenirHeavy;
+  src: url("../media/Avenir_Heavy-s.p.16fc51f3.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: avenirHeavy Fallback;
+  src: local(Arial);
+  ascent-override: 93.76%;
+  descent-override: 34.32%;
+  line-gap-override: 0.0%;
+  size-adjust: 106.66%;
+}
+
+.avenirheavy_3dc4e17a-module__C7Y1IG__className {
+  font-family: avenirHeavy, avenirHeavy Fallback;
+}
+
+.avenirheavy_3dc4e17a-module__C7Y1IG__variable {
+  --font-avenir-heavy: "avenirHeavy", "avenirHeavy Fallback";
+}
+
+/* [project]/case/app/avenirblack_297e1e28.module.css [app-client] (css) */
+@font-face {
+  font-family: avenirBlack;
+  src: url("../media/Avenir_Black-s.p.99334116.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: avenirBlack Fallback;
+  src: local(Arial);
+  ascent-override: 92.46%;
+  descent-override: 33.84%;
+  line-gap-override: 0.0%;
+  size-adjust: 108.16%;
+}
+
+.avenirblack_297e1e28-module__s_o1tG__className {
+  font-family: avenirBlack, avenirBlack Fallback;
+}
+
+.avenirblack_297e1e28-module__s_o1tG__variable {
+  --font-avenir-black: "avenirBlack", "avenirBlack Fallback";
+}
+
+/* [project]/case/app/montserratregular_ba0c48c8.module.css [app-client] (css) */
+@font-face {
+  font-family: montserratRegular;
+  src: url("../media/Montserrat_Regular-s.p.dfe9b5fe.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: montserratRegular Fallback;
+  src: local(Arial);
+  ascent-override: 84.95%;
+  descent-override: 22.03%;
+  line-gap-override: 0.0%;
+  size-adjust: 113.95%;
+}
+
+.montserratregular_ba0c48c8-module__AT_uRq__className {
+  font-family: montserratRegular, montserratRegular Fallback;
+}
+
+.montserratregular_ba0c48c8-module__AT_uRq__variable {
+  --font-montserrat-regular: "montserratRegular", "montserratRegular Fallback";
+}
+
+/* [project]/case/app/montserratlight_f38b2bbb.module.css [app-client] (css) */
+@font-face {
+  font-family: montserratLight;
+  src: url("../media/Montserrat_Light-s.p.e515a9a0.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: montserratLight Fallback;
+  src: local(Arial);
+  ascent-override: 86.13%;
+  descent-override: 22.33%;
+  line-gap-override: 0.0%;
+  size-adjust: 112.39%;
+}
+
+.montserratlight_f38b2bbb-module__kLYJUa__className {
+  font-family: montserratLight, montserratLight Fallback;
+}
+
+.montserratlight_f38b2bbb-module__kLYJUa__variable {
+  --font-montserrat-light: "montserratLight", "montserratLight Fallback";
+}
+
+/* [project]/case/app/montserratmedium_7536dfd4.module.css [app-client] (css) */
+@font-face {
+  font-family: montserratMedium;
+  src: url("../media/Montserrat_Medium-s.p.d27ffa31.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: montserratMedium Fallback;
+  src: local(Arial);
+  ascent-override: 83.59%;
+  descent-override: 21.67%;
+  line-gap-override: 0.0%;
+  size-adjust: 115.8%;
+}
+
+.montserratmedium_7536dfd4-module__Qeym8W__className {
+  font-family: montserratMedium, montserratMedium Fallback;
+}
+
+.montserratmedium_7536dfd4-module__Qeym8W__variable {
+  --font-montserrat-medium: "montserratMedium", "montserratMedium Fallback";
+}
+
+/* [project]/case/app/montserratsemibold_f01e87d0.module.css [app-client] (css) */
+@font-face {
+  font-family: montserratSemiBold;
+  src: url("../media/Montserrat_SemiBold-s.p.b0f9fa88.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: montserratSemiBold Fallback;
+  src: local(Arial);
+  ascent-override: 82.12%;
+  descent-override: 21.29%;
+  line-gap-override: 0.0%;
+  size-adjust: 117.88%;
+}
+
+.montserratsemibold_f01e87d0-module__mviHlq__className {
+  font-family: montserratSemiBold, montserratSemiBold Fallback;
+}
+
+.montserratsemibold_f01e87d0-module__mviHlq__variable {
+  --font-montserrat-semibold: "montserratSemiBold", "montserratSemiBold Fallback";
+}
+
+/* [project]/case/app/montserratbold_350056f9.module.css [app-client] (css) */
+@font-face {
+  font-family: montserratBold;
+  src: url("../media/Montserrat_Bold-s.p.bce9e396.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: montserratBold Fallback;
+  src: local(Arial);
+  ascent-override: 80.59%;
+  descent-override: 20.9%;
+  line-gap-override: 0.0%;
+  size-adjust: 120.11%;
+}
+
+.montserratbold_350056f9-module__pC0JBW__className {
+  font-family: montserratBold, montserratBold Fallback;
+}
+
+.montserratbold_350056f9-module__pC0JBW__variable {
+  --font-montserrat-bold: "montserratBold", "montserratBold Fallback";
+}
+
+/* [project]/case/app/montserratextrabold_5f2432c5.module.css [app-client] (css) */
+@font-face {
+  font-family: montserratExtraBold;
+  src: url("../media/Montserrat_ExtraBold-s.p.d0101111.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: montserratExtraBold Fallback;
+  src: local(Arial);
+  ascent-override: 79.0%;
+  descent-override: 20.48%;
+  line-gap-override: 0.0%;
+  size-adjust: 122.53%;
+}
+
+.montserratextrabold_5f2432c5-module__rOljDa__className {
+  font-family: montserratExtraBold, montserratExtraBold Fallback;
+}
+
+.montserratextrabold_5f2432c5-module__rOljDa__variable {
+  --font-montserrat-extrabold: "montserratExtraBold", "montserratExtraBold Fallback";
+}
+
+/* [project]/case/app/montserratblack_278fbf7.module.css [app-client] (css) */
+@font-face {
+  font-family: montserratBlack;
+  src: url("../media/Montserrat_Black-s.p.8a4716d0.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: montserratBlack Fallback;
+  src: local(Arial);
+  ascent-override: 77.36%;
+  descent-override: 20.06%;
+  line-gap-override: 0.0%;
+  size-adjust: 125.14%;
+}
+
+.montserratblack_278fbf7-module__QYEKzG__className {
+  font-family: montserratBlack, montserratBlack Fallback;
+}
+
+.montserratblack_278fbf7-module__QYEKzG__variable {
+  --font-montserrat-black: "montserratBlack", "montserratBlack Fallback";
+}
+
+/* [project]/case/app/globals.css [app-client] (css) */
+@layer theme {
+  :root, :host {
+    --font-sans: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    --text-2xl: 1.5rem;
+    --text-2xl--line-height: calc(2 / 1.5);
+    --default-font-family: var(--font-sans);
+    --default-mono-font-family: var(--font-mono);
+  }
+}
+
+@layer base {
+  *, :after, :before {
+    box-sizing: border-box;
+    border: 0 solid;
+    margin: 0;
+    padding: 0;
+  }
+
+  ::backdrop {
+    box-sizing: border-box;
+    border: 0 solid;
+    margin: 0;
+    padding: 0;
+  }
+
+  ::-webkit-file-upload-button {
+    box-sizing: border-box;
+    border: 0 solid;
+    margin: 0;
+    padding: 0;
+  }
+
+  ::file-selector-button {
+    box-sizing: border-box;
+    border: 0 solid;
+    margin: 0;
+    padding: 0;
+  }
+
+  html, :host {
+    -webkit-text-size-adjust: 100%;
+    -moz-tab-size: 4;
+    tab-size: 4;
+    line-height: 1.5;
+    font-family: var(--default-font-family, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji");
+    font-feature-settings: var(--default-font-feature-settings, normal);
+    font-variation-settings: var(--default-font-variation-settings, normal);
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  hr {
+    height: 0;
+    color: inherit;
+    border-top-width: 1px;
+  }
+
+  abbr:where([title]) {
+    -webkit-text-decoration: underline dotted;
+    text-decoration: underline dotted;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-size: inherit;
+    font-weight: inherit;
+  }
+
+  a {
+    color: inherit;
+    -webkit-text-decoration: inherit;
+    -webkit-text-decoration: inherit;
+    text-decoration: inherit;
+  }
+
+  b, strong {
+    font-weight: bolder;
+  }
+
+  code, kbd, samp, pre {
+    font-family: var(--default-mono-font-family, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace);
+    font-feature-settings: var(--default-mono-font-feature-settings, normal);
+    font-variation-settings: var(--default-mono-font-variation-settings, normal);
+    font-size: 1em;
+  }
+
+  small {
+    font-size: 80%;
+  }
+
+  sub, sup {
+    vertical-align: baseline;
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+  }
+
+  sub {
+    bottom: -.25em;
+  }
+
+  sup {
+    top: -.5em;
+  }
+
+  table {
+    text-indent: 0;
+    border-color: inherit;
+    border-collapse: collapse;
+  }
+
+  :-moz-focusring {
+    outline: auto;
+  }
+
+  progress {
+    vertical-align: baseline;
+  }
+
+  summary {
+    display: list-item;
+  }
+
+  ol, ul, menu {
+    list-style: none;
+  }
+
+  img, svg, video, canvas, audio, iframe, embed, object {
+    vertical-align: middle;
+    display: block;
+  }
+
+  img, video {
+    max-width: 100%;
+    height: auto;
+  }
+
+  button, input, select, optgroup, textarea {
+    font: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    letter-spacing: inherit;
+    color: inherit;
+    opacity: 1;
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 0;
+  }
+
+  ::-webkit-file-upload-button {
+    font: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    letter-spacing: inherit;
+    color: inherit;
+    opacity: 1;
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 0;
+  }
+
+  ::file-selector-button {
+    font: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    letter-spacing: inherit;
+    color: inherit;
+    opacity: 1;
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 0;
+  }
+
+  :where(select:-webkit-any([multiple], [size])) optgroup {
+    font-weight: bolder;
+  }
+
+  :where(select:-moz-any([multiple], [size])) optgroup {
+    font-weight: bolder;
+  }
+
+  :where(select:is([multiple], [size])) optgroup {
+    font-weight: bolder;
+  }
+
+  :where(select:-webkit-any([multiple], [size])) optgroup option:not(:-webkit-any(:lang(ae), :lang(ar), :lang(arc), :lang(bcc), :lang(bqi), :lang(ckb), :lang(dv), :lang(fa), :lang(glk), :lang(he), :lang(ku), :lang(mzn), :lang(nqo), :lang(pnb), :lang(ps), :lang(sd), :lang(ug), :lang(ur), :lang(yi))) {
+    padding-left: 20px;
+  }
+
+  :where(select:-moz-any([multiple], [size])) optgroup option:not(:-moz-any(:lang(ae), :lang(ar), :lang(arc), :lang(bcc), :lang(bqi), :lang(ckb), :lang(dv), :lang(fa), :lang(glk), :lang(he), :lang(ku), :lang(mzn), :lang(nqo), :lang(pnb), :lang(ps), :lang(sd), :lang(ug), :lang(ur), :lang(yi))) {
+    padding-left: 20px;
+  }
+
+  :where(select:is([multiple], [size])) optgroup option:not(:is(:lang(ae), :lang(ar), :lang(arc), :lang(bcc), :lang(bqi), :lang(ckb), :lang(dv), :lang(fa), :lang(glk), :lang(he), :lang(ku), :lang(mzn), :lang(nqo), :lang(pnb), :lang(ps), :lang(sd), :lang(ug), :lang(ur), :lang(yi))) {
+    padding-left: 20px;
+  }
+
+  :where(select:-webkit-any([multiple], [size])) optgroup option:-webkit-any(:lang(ae), :lang(ar), :lang(arc), :lang(bcc), :lang(bqi), :lang(ckb), :lang(dv), :lang(fa), :lang(glk), :lang(he), :lang(ku), :lang(mzn), :lang(nqo), :lang(pnb), :lang(ps), :lang(sd), :lang(ug), :lang(ur), :lang(yi)) {
+    padding-right: 20px;
+  }
+
+  :where(select:-moz-any([multiple], [size])) optgroup option:-moz-any(:lang(ae), :lang(ar), :lang(arc), :lang(bcc), :lang(bqi), :lang(ckb), :lang(dv), :lang(fa), :lang(glk), :lang(he), :lang(ku), :lang(mzn), :lang(nqo), :lang(pnb), :lang(ps), :lang(sd), :lang(ug), :lang(ur), :lang(yi)) {
+    padding-right: 20px;
+  }
+
+  :where(select:is([multiple], [size])) optgroup option:is(:lang(ae), :lang(ar), :lang(arc), :lang(bcc), :lang(bqi), :lang(ckb), :lang(dv), :lang(fa), :lang(glk), :lang(he), :lang(ku), :lang(mzn), :lang(nqo), :lang(pnb), :lang(ps), :lang(sd), :lang(ug), :lang(ur), :lang(yi)) {
+    padding-right: 20px;
+  }
+
+  :not(:-webkit-any(:lang(ae), :lang(ar), :lang(arc), :lang(bcc), :lang(bqi), :lang(ckb), :lang(dv), :lang(fa), :lang(glk), :lang(he), :lang(ku), :lang(mzn), :lang(nqo), :lang(pnb), :lang(ps), :lang(sd), :lang(ug), :lang(ur), :lang(yi)))::-webkit-file-upload-button {
+    margin-right: 4px;
+  }
+
+  :not(:-moz-any(:lang(ae), :lang(ar), :lang(arc), :lang(bcc), :lang(bqi), :lang(ckb), :lang(dv), :lang(fa), :lang(glk), :lang(he), :lang(ku), :lang(mzn), :lang(nqo), :lang(pnb), :lang(ps), :lang(sd), :lang(ug), :lang(ur), :lang(yi)))::file-selector-button {
+    margin-right: 4px;
+  }
+
+  :not(:is(:lang(ae), :lang(ar), :lang(arc), :lang(bcc), :lang(bqi), :lang(ckb), :lang(dv), :lang(fa), :lang(glk), :lang(he), :lang(ku), :lang(mzn), :lang(nqo), :lang(pnb), :lang(ps), :lang(sd), :lang(ug), :lang(ur), :lang(yi)))::file-selector-button {
+    margin-right: 4px;
+  }
+
+  :-webkit-any(:lang(ae), :lang(ar), :lang(arc), :lang(bcc), :lang(bqi), :lang(ckb), :lang(dv), :lang(fa), :lang(glk), :lang(he), :lang(ku), :lang(mzn), :lang(nqo), :lang(pnb), :lang(ps), :lang(sd), :lang(ug), :lang(ur), :lang(yi))::-webkit-file-upload-button {
+    margin-left: 4px;
+  }
+
+  :-moz-any(:lang(ae), :lang(ar), :lang(arc), :lang(bcc), :lang(bqi), :lang(ckb), :lang(dv), :lang(fa), :lang(glk), :lang(he), :lang(ku), :lang(mzn), :lang(nqo), :lang(pnb), :lang(ps), :lang(sd), :lang(ug), :lang(ur), :lang(yi))::file-selector-button {
+    margin-left: 4px;
+  }
+
+  :is(:lang(ae), :lang(ar), :lang(arc), :lang(bcc), :lang(bqi), :lang(ckb), :lang(dv), :lang(fa), :lang(glk), :lang(he), :lang(ku), :lang(mzn), :lang(nqo), :lang(pnb), :lang(ps), :lang(sd), :lang(ug), :lang(ur), :lang(yi))::file-selector-button {
+    margin-left: 4px;
+  }
+
+  ::placeholder {
+    opacity: 1;
+  }
+
+  @supports (not ((-webkit-appearance: -apple-pay-button))) or (contain-intrinsic-size: 1px) {
+    ::placeholder {
+      color: currentColor;
+    }
+
+    @supports (color: color-mix(in lab, red, red)) {
+      ::placeholder {
+        color: color-mix(in oklab, currentcolor 50%, transparent);
+      }
+    }
+  }
+
+  textarea {
+    resize: vertical;
+  }
+
+  ::-webkit-search-decoration {
+    -webkit-appearance: none;
+  }
+
+  ::-webkit-date-and-time-value {
+    min-height: 1lh;
+    text-align: inherit;
+  }
+
+  ::-webkit-datetime-edit {
+    display: inline-flex;
+  }
+
+  ::-webkit-datetime-edit-fields-wrapper {
+    padding: 0;
+  }
+
+  ::-webkit-datetime-edit {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  ::-webkit-datetime-edit-year-field {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  ::-webkit-datetime-edit-month-field {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  ::-webkit-datetime-edit-day-field {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  ::-webkit-datetime-edit-hour-field {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  ::-webkit-datetime-edit-minute-field {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  ::-webkit-datetime-edit-second-field {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  ::-webkit-datetime-edit-millisecond-field {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  ::-webkit-datetime-edit-meridiem-field {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  ::-webkit-calendar-picker-indicator {
+    line-height: 1;
+  }
+
+  :-moz-ui-invalid {
+    box-shadow: none;
+  }
+
+  button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+  }
+
+  input:where([type="button"], [type="reset"], [type="submit"]) {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+  }
+
+  ::-webkit-file-upload-button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+  }
+
+  ::file-selector-button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+  }
+
+  ::-webkit-inner-spin-button {
+    height: auto;
+  }
+
+  ::-webkit-outer-spin-button {
+    height: auto;
+  }
+
+  [hidden]:where(:not([hidden="until-found"])) {
+    display: none !important;
+  }
+}
+
+@layer components;
+
+@layer utilities {
+  .text-2xl {
+    font-size: var(--text-2xl);
+    line-height: var(--tw-leading, var(--text-2xl--line-height));
+  }
+
+  .antialiased {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+@font-face {
+  font-family: Avenir Roman;
+  src: url("/fonts/avenir/Avenir-Roman.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Avenir Book;
+  src: url("/fonts/avenir/Avenir-Book.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Avenir Medium;
+  src: url("/fonts/avenir/Avenir-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Avenir Heavy;
+  src: url("/fonts/avenir/Avenir-Heavy.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Avenir Black;
+  src: url("/fonts/avenir/Avenir-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Montserrat Regular;
+  src: url("/fonts/montserat/Montserrat-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Montserrat Light;
+  src: url("/fonts/montserat/Montserrat-Light.otf") format("opentype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Montserrat Medium;
+  src: url("/fonts/montserat/Montserrat-Medium.otf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Montserrat SemiBold;
+  src: url("/fonts/montserat/Montserrat-SemiBold.otf") format("opentype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Montserrat Bold;
+  src: url("/fonts/montserat/Montserrat-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Montserrat ExtraBold;
+  src: url("/fonts/montserat/Montserrat-ExtraBold.otf") format("opentype");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Montserrat Black;
+  src: url("/fonts/montserat/Montserrat-Black.otf") format("opentype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+.font-avenir-roman {
+  font-family: Avenir Roman, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, sans-serif;
+}
+
+.font-avenir-book {
+  font-family: Avenir Book, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, sans-serif;
+}
+
+.font-avenir-medium {
+  font-family: Avenir Medium, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, sans-serif;
+}
+
+.font-avenir-heavy {
+  font-family: Avenir Heavy, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, sans-serif;
+}
+
+.font-avenir-black {
+  font-family: Avenir Black, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, sans-serif;
+}
+
+.font-montserrat-regular {
+  font-family: Montserrat Regular, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, sans-serif;
+}
+
+.font-montserrat-light {
+  font-family: Montserrat Light, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, sans-serif;
+}
+
+.font-montserrat-medium {
+  font-family: Montserrat Medium, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, sans-serif;
+}
+
+.font-montserrat-semibold {
+  font-family: Montserrat SemiBold, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, sans-serif;
+}
+
+.font-montserrat-bold {
+  font-family: Montserrat Bold, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, sans-serif;
+}
+
+.font-montserrat-extrabold {
+  font-family: Montserrat ExtraBold, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, sans-serif;
+}
+
+.font-montserrat-black {
+  font-family: Montserrat Black, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, sans-serif;
+}
+
+.font-sans {
+  font-family: Avenir Roman, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, sans-serif;
+}
+
+/*# sourceMappingURL=case_app_717dfda1._.css.map*/

@@ -1,0 +1,134 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Avenir Roman";
+  src: url("/fonts/avenir/Avenir-Roman.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Avenir Book";
+  src: url("/fonts/avenir/Avenir-Book.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Avenir Medium";
+  src: url("/fonts/avenir/Avenir-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Avenir Heavy";
+  src: url("/fonts/avenir/Avenir-Heavy.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Avenir Black";
+  src: url("/fonts/avenir/Avenir-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* Montserrat Font Family */
+@font-face {
+  font-family: "Montserrat Regular";
+  src: url("/fonts/montserat/Montserrat-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat Light";
+  src: url("/fonts/montserat/Montserrat-Light.otf") format("opentype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat Medium";
+  src: url("/fonts/montserat/Montserrat-Medium.otf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat SemiBold";
+  src: url("/fonts/montserat/Montserrat-SemiBold.otf") format("opentype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat Bold";
+  src: url("/fonts/montserat/Montserrat-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat ExtraBold";
+  src: url("/fonts/montserat/Montserrat-ExtraBold.otf") format("opentype");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat Black";
+  src: url("/fonts/montserat/Montserrat-Black.otf") format("opentype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+.font-avenir-roman {
+  font-family: "Avenir Roman", system-ui, sans-serif;
+}
+
+.font-avenir-book {
+  font-family: "Avenir Book", system-ui, sans-serif;
+}
+
+.font-avenir-medium {
+  font-family: "Avenir Medium", system-ui, sans-serif;
+}
+
+.font-avenir-heavy {
+  font-family: "Avenir Heavy", system-ui, sans-serif;
+}
+
+.font-avenir-black {
+  font-family: "Avenir Black", system-ui, sans-serif;
+}
+
+.font-montserrat-regular {
+  font-family: "Montserrat Regular", system-ui, sans-serif;
+}
+
+.font-montserrat-light {
+  font-family: "Montserrat Light", system-ui, sans-serif;
+}
+
+.font-montserrat-medium {
+  font-family: "Montserrat Medium", system-ui, sans-serif;
+}
+
+.font-montserrat-semibold {
+  font-family: "Montserrat SemiBold", system-ui, sans-serif;
+}
+
+.font-montserrat-bold {
+  font-family: "Montserrat Bold", system-ui, sans-serif;
+}
+
+.font-montserrat-extrabold {
+  font-family: "Montserrat ExtraBold", system-ui, sans-serif;
+}
+
+.font-montserrat-black {
+  font-family: "Montserrat Black", system-ui, sans-serif;
+}

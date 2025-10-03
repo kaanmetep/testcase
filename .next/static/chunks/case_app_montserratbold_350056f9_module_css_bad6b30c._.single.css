@@ -1,0 +1,25 @@
+/* [project]/case/app/montserratbold_350056f9.module.css [app-client] (css) */
+@font-face {
+  font-family: montserratBold;
+  src: url("../media/Montserrat_Bold-s.p.bce9e396.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: montserratBold Fallback;
+  src: local(Arial);
+  ascent-override: 80.59%;
+  descent-override: 20.9%;
+  line-gap-override: 0.0%;
+  size-adjust: 120.11%;
+}
+
+.montserratbold_350056f9-module__pC0JBW__className {
+  font-family: montserratBold, montserratBold Fallback;
+}
+
+.montserratbold_350056f9-module__pC0JBW__variable {
+  --font-montserrat-bold: "montserratBold", "montserratBold Fallback";
+}
+
+/*# sourceMappingURL=case_app_montserratbold_350056f9_module_css_bad6b30c._.single.css.map*/

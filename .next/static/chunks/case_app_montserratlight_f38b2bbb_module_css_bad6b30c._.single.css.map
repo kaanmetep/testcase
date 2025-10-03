@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/case/app/montserratlight_f38b2bbb.module.css"],"sourcesContent":["@font-face {\n    font-family: 'montserratLight';\n    src: url('@vercel/turbopack-next/internal/font/local/font?{%22path%22:%22../public/fonts/montserat/Montserrat-Light.otf%22,%22preload%22:true,%22has_size_adjust%22:true}') format('opentype');\n    font-display: swap;\n    \n}\n\n@font-face {\n    font-family: 'montserratLight Fallback';\n    src: local(\"Arial\");\n    ascent-override: 86.13%;\ndescent-override: 22.33%;\nline-gap-override: 0.00%;\nsize-adjust: 112.39%;\n\n}\n\n.className {\n    font-family: 'montserratLight', 'montserratLight Fallback';\n    \n}\n.variable {\n    --font-montserrat-light: 'montserratLight', 'montserratLight Fallback';\n}\n\n"],"names":[],"mappings":"AAAA;;;;;;AAOA;;;;;;;;;AAUA;;;;AAIA"}}]
+}

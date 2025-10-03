@@ -1,0 +1,25 @@
+/* [project]/case/app/montserratlight_f38b2bbb.module.css [app-client] (css) */
+@font-face {
+  font-family: montserratLight;
+  src: url("../media/Montserrat_Light-s.p.e515a9a0.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: montserratLight Fallback;
+  src: local(Arial);
+  ascent-override: 86.13%;
+  descent-override: 22.33%;
+  line-gap-override: 0.0%;
+  size-adjust: 112.39%;
+}
+
+.montserratlight_f38b2bbb-module__kLYJUa__className {
+  font-family: montserratLight, montserratLight Fallback;
+}
+
+.montserratlight_f38b2bbb-module__kLYJUa__variable {
+  --font-montserrat-light: "montserratLight", "montserratLight Fallback";
+}
+
+/*# sourceMappingURL=case_app_montserratlight_f38b2bbb_module_css_bad6b30c._.single.css.map*/

@@ -1,0 +1,25 @@
+/* [project]/case/app/avenirmedium_9669aef7.module.css [app-client] (css) */
+@font-face {
+  font-family: avenirMedium;
+  src: url("../media/Avenir_Medium-s.p.c359ec0d.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: avenirMedium Fallback;
+  src: local(Arial);
+  ascent-override: 97.27%;
+  descent-override: 35.6%;
+  line-gap-override: 0.0%;
+  size-adjust: 102.8%;
+}
+
+.avenirmedium_9669aef7-module__Ui6kYG__className {
+  font-family: avenirMedium, avenirMedium Fallback;
+}
+
+.avenirmedium_9669aef7-module__Ui6kYG__variable {
+  --font-avenir-medium: "avenirMedium", "avenirMedium Fallback";
+}
+
+/*# sourceMappingURL=case_app_avenirmedium_9669aef7_module_css_bad6b30c._.single.css.map*/

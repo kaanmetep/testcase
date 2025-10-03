@@ -1,0 +1,25 @@
+/* [project]/case/app/montserratblack_278fbf7.module.css [app-client] (css) */
+@font-face {
+  font-family: montserratBlack;
+  src: url("../media/Montserrat_Black-s.p.8a4716d0.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: montserratBlack Fallback;
+  src: local(Arial);
+  ascent-override: 77.36%;
+  descent-override: 20.06%;
+  line-gap-override: 0.0%;
+  size-adjust: 125.14%;
+}
+
+.montserratblack_278fbf7-module__QYEKzG__className {
+  font-family: montserratBlack, montserratBlack Fallback;
+}
+
+.montserratblack_278fbf7-module__QYEKzG__variable {
+  --font-montserrat-black: "montserratBlack", "montserratBlack Fallback";
+}
+
+/*# sourceMappingURL=case_app_montserratblack_278fbf7_module_css_bad6b30c._.single.css.map*/

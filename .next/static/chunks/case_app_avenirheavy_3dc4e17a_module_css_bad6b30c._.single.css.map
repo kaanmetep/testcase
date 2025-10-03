@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/case/app/avenirheavy_3dc4e17a.module.css"],"sourcesContent":["@font-face {\n    font-family: 'avenirHeavy';\n    src: url('@vercel/turbopack-next/internal/font/local/font?{%22path%22:%22../public/fonts/avenir/Avenir-Heavy.ttf%22,%22preload%22:true,%22has_size_adjust%22:true}') format('truetype');\n    font-display: swap;\n    \n}\n\n@font-face {\n    font-family: 'avenirHeavy Fallback';\n    src: local(\"Arial\");\n    ascent-override: 93.76%;\ndescent-override: 34.32%;\nline-gap-override: 0.00%;\nsize-adjust: 106.66%;\n\n}\n\n.className {\n    font-family: 'avenirHeavy', 'avenirHeavy Fallback';\n    \n}\n.variable {\n    --font-avenir-heavy: 'avenirHeavy', 'avenirHeavy Fallback';\n}\n\n"],"names":[],"mappings":"AAAA;;;;;;AAOA;;;;;;;;;AAUA;;;;AAIA"}}]
+}

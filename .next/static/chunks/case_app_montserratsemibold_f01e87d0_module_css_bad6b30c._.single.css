@@ -1,0 +1,25 @@
+/* [project]/case/app/montserratsemibold_f01e87d0.module.css [app-client] (css) */
+@font-face {
+  font-family: montserratSemiBold;
+  src: url("../media/Montserrat_SemiBold-s.p.b0f9fa88.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: montserratSemiBold Fallback;
+  src: local(Arial);
+  ascent-override: 82.12%;
+  descent-override: 21.29%;
+  line-gap-override: 0.0%;
+  size-adjust: 117.88%;
+}
+
+.montserratsemibold_f01e87d0-module__mviHlq__className {
+  font-family: montserratSemiBold, montserratSemiBold Fallback;
+}
+
+.montserratsemibold_f01e87d0-module__mviHlq__variable {
+  --font-montserrat-semibold: "montserratSemiBold", "montserratSemiBold Fallback";
+}
+
+/*# sourceMappingURL=case_app_montserratsemibold_f01e87d0_module_css_bad6b30c._.single.css.map*/

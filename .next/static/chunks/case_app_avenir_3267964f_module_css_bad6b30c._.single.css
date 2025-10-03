@@ -1,0 +1,59 @@
+/* [project]/case/app/avenir_3267964f.module.css [app-client] (css) */
+@font-face {
+  font-family: avenir;
+  src: url("../media/Avenir_Roman-s.p.33d6f4ec.ttf") format("truetype");
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: avenir;
+  src: url("../media/Avenir_Book-s.p.111acc1a.ttf") format("truetype");
+  font-display: swap;
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: avenir;
+  src: url("../media/Avenir_Medium-s.p.c359ec0d.ttf") format("truetype");
+  font-display: swap;
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: avenir;
+  src: url("../media/Avenir_Heavy-s.p.16fc51f3.ttf") format("truetype");
+  font-display: swap;
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: avenir;
+  src: url("../media/Avenir_Black-s.p.99334116.ttf") format("truetype");
+  font-display: swap;
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: avenir Fallback;
+  src: local(Arial);
+  ascent-override: 98.43%;
+  descent-override: 36.03%;
+  line-gap-override: 0.0%;
+  size-adjust: 101.59%;
+}
+
+.avenir_3267964f-module__rD9VXG__className {
+  font-family: avenir, avenir Fallback;
+}
+
+.avenir_3267964f-module__rD9VXG__variable {
+  --font-avenir: "avenir", "avenir Fallback";
+}
+
+/*# sourceMappingURL=case_app_avenir_3267964f_module_css_bad6b30c._.single.css.map*/

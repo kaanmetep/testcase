@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/case/app/montserratextrabold_5f2432c5.module.css"],"sourcesContent":["@font-face {\n    font-family: 'montserratExtraBold';\n    src: url('@vercel/turbopack-next/internal/font/local/font?{%22path%22:%22../public/fonts/montserat/Montserrat-ExtraBold.otf%22,%22preload%22:true,%22has_size_adjust%22:true}') format('opentype');\n    font-display: swap;\n    \n}\n\n@font-face {\n    font-family: 'montserratExtraBold Fallback';\n    src: local(\"Arial\");\n    ascent-override: 79.00%;\ndescent-override: 20.48%;\nline-gap-override: 0.00%;\nsize-adjust: 122.53%;\n\n}\n\n.className {\n    font-family: 'montserratExtraBold', 'montserratExtraBold Fallback';\n    \n}\n.variable {\n    --font-montserrat-extrabold: 'montserratExtraBold', 'montserratExtraBold Fallback';\n}\n\n"],"names":[],"mappings":"AAAA;;;;;;AAOA;;;;;;;;;AAUA;;;;AAIA"}}]
+}

@@ -1,0 +1,75 @@
+/* [project]/case/app/montserrat_83430844.module.css [app-client] (css) */
+@font-face {
+  font-family: montserrat;
+  src: url("../media/Montserrat_Regular-s.p.dfe9b5fe.ttf") format("truetype");
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: montserrat;
+  src: url("../media/Montserrat_Light-s.p.e515a9a0.otf") format("opentype");
+  font-display: swap;
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: montserrat;
+  src: url("../media/Montserrat_Medium-s.p.d27ffa31.otf") format("opentype");
+  font-display: swap;
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: montserrat;
+  src: url("../media/Montserrat_SemiBold-s.p.b0f9fa88.otf") format("opentype");
+  font-display: swap;
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: montserrat;
+  src: url("../media/Montserrat_Bold-s.p.bce9e396.ttf") format("truetype");
+  font-display: swap;
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: montserrat;
+  src: url("../media/Montserrat_ExtraBold-s.p.d0101111.otf") format("opentype");
+  font-display: swap;
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: montserrat;
+  src: url("../media/Montserrat_Black-s.p.8a4716d0.otf") format("opentype");
+  font-display: swap;
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: montserrat Fallback;
+  src: local(Arial);
+  ascent-override: 84.95%;
+  descent-override: 22.03%;
+  line-gap-override: 0.0%;
+  size-adjust: 113.95%;
+}
+
+.montserrat_83430844-module__dsrdpq__className {
+  font-family: montserrat, montserrat Fallback;
+}
+
+.montserrat_83430844-module__dsrdpq__variable {
+  --font-montserrat: "montserrat", "montserrat Fallback";
+}
+
+/*# sourceMappingURL=case_app_montserrat_83430844_module_css_bad6b30c._.single.css.map*/

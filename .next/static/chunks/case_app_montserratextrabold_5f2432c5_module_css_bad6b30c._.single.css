@@ -1,0 +1,25 @@
+/* [project]/case/app/montserratextrabold_5f2432c5.module.css [app-client] (css) */
+@font-face {
+  font-family: montserratExtraBold;
+  src: url("../media/Montserrat_ExtraBold-s.p.d0101111.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: montserratExtraBold Fallback;
+  src: local(Arial);
+  ascent-override: 79.0%;
+  descent-override: 20.48%;
+  line-gap-override: 0.0%;
+  size-adjust: 122.53%;
+}
+
+.montserratextrabold_5f2432c5-module__rOljDa__className {
+  font-family: montserratExtraBold, montserratExtraBold Fallback;
+}
+
+.montserratextrabold_5f2432c5-module__rOljDa__variable {
+  --font-montserrat-extrabold: "montserratExtraBold", "montserratExtraBold Fallback";
+}
+
+/*# sourceMappingURL=case_app_montserratextrabold_5f2432c5_module_css_bad6b30c._.single.css.map*/

@@ -1,0 +1,25 @@
+/* [project]/case/app/avenirroman_671a84a9.module.css [app-client] (css) */
+@font-face {
+  font-family: avenirRoman;
+  src: url("../media/Avenir_Roman-s.p.33d6f4ec.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: avenirRoman Fallback;
+  src: local(Arial);
+  ascent-override: 98.43%;
+  descent-override: 36.03%;
+  line-gap-override: 0.0%;
+  size-adjust: 101.59%;
+}
+
+.avenirroman_671a84a9-module__f5VYiW__className {
+  font-family: avenirRoman, avenirRoman Fallback;
+}
+
+.avenirroman_671a84a9-module__f5VYiW__variable {
+  --font-avenir-roman: "avenirRoman", "avenirRoman Fallback";
+}
+
+/*# sourceMappingURL=case_app_avenirroman_671a84a9_module_css_bad6b30c._.single.css.map*/

@@ -1,0 +1,25 @@
+/* [project]/case/app/avenirbook_e59c0f06.module.css [app-client] (css) */
+@font-face {
+  font-family: avenirBook;
+  src: url("../media/Avenir_Book-s.p.111acc1a.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: avenirBook Fallback;
+  src: local(Arial);
+  ascent-override: 99.3%;
+  descent-override: 36.34%;
+  line-gap-override: 0.0%;
+  size-adjust: 100.71%;
+}
+
+.avenirbook_e59c0f06-module__tB0fpq__className {
+  font-family: avenirBook, avenirBook Fallback;
+}
+
+.avenirbook_e59c0f06-module__tB0fpq__variable {
+  --font-avenir-book: "avenirBook", "avenirBook Fallback";
+}
+
+/*# sourceMappingURL=case_app_avenirbook_e59c0f06_module_css_bad6b30c._.single.css.map*/

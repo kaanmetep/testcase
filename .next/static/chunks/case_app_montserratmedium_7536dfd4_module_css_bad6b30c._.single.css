@@ -1,0 +1,25 @@
+/* [project]/case/app/montserratmedium_7536dfd4.module.css [app-client] (css) */
+@font-face {
+  font-family: montserratMedium;
+  src: url("../media/Montserrat_Medium-s.p.d27ffa31.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: montserratMedium Fallback;
+  src: local(Arial);
+  ascent-override: 83.59%;
+  descent-override: 21.67%;
+  line-gap-override: 0.0%;
+  size-adjust: 115.8%;
+}
+
+.montserratmedium_7536dfd4-module__Qeym8W__className {
+  font-family: montserratMedium, montserratMedium Fallback;
+}
+
+.montserratmedium_7536dfd4-module__Qeym8W__variable {
+  --font-montserrat-medium: "montserratMedium", "montserratMedium Fallback";
+}
+
+/*# sourceMappingURL=case_app_montserratmedium_7536dfd4_module_css_bad6b30c._.single.css.map*/
