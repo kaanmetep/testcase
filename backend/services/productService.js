@@ -26,7 +26,7 @@ exports.getProducts = async function getProducts(req, res) {
 
     const goldPrice = await getGoldPrice();
 
-    const productsWithPrices = productsData.products.map((product) => {
+    let productsWithPrices = productsData.products.map((product) => {
       const price = calculatePrice(product, goldPrice);
 
       return {
@@ -37,9 +37,27 @@ exports.getProducts = async function getProducts(req, res) {
       };
     });
 
+    if (req.query.minPrice || req.query.maxPrice) {
+      const minPrice = req.query.minPrice ? parseFloat(req.query.minPrice) : 0;
+      const maxPrice = req.query.maxPrice
+        ? parseFloat(req.query.maxPrice)
+        : Infinity;
+
+      productsWithPrices = productsWithPrices.filter((product) => {
+        return product.price >= minPrice && product.price <= maxPrice;
+      });
+    }
+
+    if (req.query.minPopularity) {
+      const minPopularity = parseFloat(req.query.minPopularity);
+      productsWithPrices = productsWithPrices.filter((product) => {
+        return product.popularityScore >= minPopularity;
+      });
+    }
+
     res.json(productsWithPrices);
   } catch (error) {
-    console.error("Error getting all products with prices:", error.message);
+    console.error("Error getting products:", error.message);
     res.status(500).json({ error: error.message });
   }
 };
