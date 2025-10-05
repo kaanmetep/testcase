@@ -72,7 +72,7 @@ export default function ProductsCarousel() {
   const fetchProducts = async () => {
     try {
       const response = await fetch(
-        "http://ringstore-testcase-backend.vercel.app/api/products"
+        "https://ringstore-testcase-backend.vercel.app/api/products"
       );
       const data = await response.json();
       setProducts(data);
